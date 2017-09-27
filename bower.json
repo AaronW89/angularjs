@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo",
+  "homepage": "https://github.com/AaronW89/angularjs",
+  "authors": [
+    "Aaron Webb <aaron.webb10@hotmail.com>"
+  ],
+  "description": "todo list",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
